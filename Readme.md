@@ -18,3 +18,6 @@
 `python manage.py tenant_command loaddata --schema=SCHEMA_NAME data.json`
 
 `python manage.py tenant_command -s SCHEMA_NAME loaddata data.json`
+
+
+`https://github.com/bernardopires/django-tenant-schemas/issues/618`
